@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Informatics.GitDemo.Program", "Informatics.GitDemo.Program\Informatics.GitDemo.Program.csproj", "{53C62E10-C358-4651-8554-E84E90EDA57A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Informatics.GitDemo.Utils", "Informatics.GitDemo.Utils\Informatics.GitDemo.Utils.csproj", "{545BCB76-669B-45E1-B5E6-C6DFBC0D6E49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{53C62E10-C358-4651-8554-E84E90EDA57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53C62E10-C358-4651-8554-E84E90EDA57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53C62E10-C358-4651-8554-E84E90EDA57A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{545BCB76-669B-45E1-B5E6-C6DFBC0D6E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545BCB76-669B-45E1-B5E6-C6DFBC0D6E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545BCB76-669B-45E1-B5E6-C6DFBC0D6E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545BCB76-669B-45E1-B5E6-C6DFBC0D6E49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
